@@ -5,14 +5,16 @@ Then, send the email, which contains height information, to the user who just su
 The data is stored in PostgreSQL. The web is bulit by Flask, which is python web framework.
 It uses psycopg2 and Flask-SQLAlchemy to build the database object to communicate with Flask.
 
-This page allows users to enter their information because the app would check if the database has this email or not.
+
+This page allows users to enter their information.
 <img width="685" alt="screen shot 2018-07-17 at 11 57 17 am" src="https://user-images.githubusercontent.com/35472776/42839569-fc3bef38-89b8-11e8-85cf-a2288e9998c1.png">
 
 
 
 
 
-If the user enter the email which has already existed, the page would inform the user to retype the email.
+If the user enter the email which has already existed, the page would inform the user to retype the email because the app would check if the database has this email or not.
+
 <img width="682" alt="screen shot 2018-07-17 at 11 58 09 am" src="https://user-images.githubusercontent.com/35472776/42839577-025df33e-89b9-11e8-8ec6-76f334096911.png">
 
 
