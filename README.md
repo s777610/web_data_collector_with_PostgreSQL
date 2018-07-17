@@ -16,7 +16,15 @@
 
 
 
+
 <img width="997" alt="screen shot 2018-07-17 at 11 58 41 am" src="https://user-images.githubusercontent.com/35472776/42839583-075f19b2-89b9-11e8-9428-8ca8e0ed5186.png">
+
+
+
+
+
+
+<img width="1278" alt="screen shot 2018-07-17 at 12 02 56 pm" src="https://user-images.githubusercontent.com/35472776/42839721-7081e01e-89b9-11e8-8aec-700ffafd7484.png">
 
 
 
