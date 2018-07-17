@@ -21,6 +21,7 @@ If the user enter the email which has already existed, the page would inform the
 
 
 
+All data is store in PostgreSQL. 
 
 <img width="997" alt="screen shot 2018-07-17 at 11 58 41 am" src="https://user-images.githubusercontent.com/35472776/42839583-075f19b2-89b9-11e8-9428-8ca8e0ed5186.png">
 
@@ -28,6 +29,7 @@ If the user enter the email which has already existed, the page would inform the
 
 
 
+The user would recieve the email which contain height information.
 
 <img width="1278" alt="screen shot 2018-07-17 at 12 02 56 pm" src="https://user-images.githubusercontent.com/35472776/42839721-7081e01e-89b9-11e8-8aec-700ffafd7484.png">
 
@@ -35,5 +37,7 @@ If the user enter the email which has already existed, the page would inform the
 
 
 
+In addition, this app users to updata their csv file. 
+Then, the app would add some contents into that csv file and allow users to download it.
 
 <img width="681" alt="screen shot 2018-07-17 at 11 57 00 am" src="https://user-images.githubusercontent.com/35472776/42839596-0ce78630-89b9-11e8-93e1-010c906955fb.png">
