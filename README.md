@@ -2,7 +2,7 @@
 
 This web-application allow users to enter their height and calculate average height of all users. 
 Then, send the email, which contains height information, to the user who just submitted data.
-The data is stored in PostgreSQL. The web is bulit by Flask, which is python web framework.
+The data is stored in PostgreSQL. The web is created by Flask, which is python web framework.
 It uses psycopg2 and Flask-SQLAlchemy to build the database object to communicate with Flask.
 
 
@@ -29,7 +29,7 @@ All data is store in PostgreSQL.
 
 
 
-The user would recieve the email which contain height information.
+The user would receive the email which contain height information.
 
 <img width="1278" alt="screen shot 2018-07-17 at 12 02 56 pm" src="https://user-images.githubusercontent.com/35472776/42839721-7081e01e-89b9-11e8-8aec-700ffafd7484.png">
 
@@ -37,7 +37,7 @@ The user would recieve the email which contain height information.
 
 
 
-In addition, this app users to updata their csv file. 
+In addition, this app users to update their csv file. 
 Then, the app would add some contents into that csv file and allow users to download it.
 
 <img width="681" alt="screen shot 2018-07-17 at 11 57 00 am" src="https://user-images.githubusercontent.com/35472776/42839596-0ce78630-89b9-11e8-93e1-010c906955fb.png">
