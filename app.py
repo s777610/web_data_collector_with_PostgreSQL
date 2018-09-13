@@ -11,7 +11,7 @@ app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:postgres1234@localhost/height_collector'
 # create SQLAlchemy object for flask app
 db = SQLAlchemy(app)
-
+ 
 
 # go to Python Console,
 # from app import db to create table without running flask
@@ -69,7 +69,7 @@ def upload():
 
 
 @app.route("/download")
-def download():
+def download(): 
     # send new file to users, and allow user to download it instead of opening it on browser
     return send_file("uploaded_"+file.filename, attachment_filename="your_new_file.csv", as_attachment=True)
 
